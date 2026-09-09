@@ -14,9 +14,9 @@ export const SITE: SiteConfig = {
 export const THEME_CONFIG: ThemeConfig = {
     lightAndDark: true,
     themeLight: "light_default",
-    themeDark: "dark_notepad",  // This gives a beautiful dark theme
+    themeDark: "dark_modern",  // This gives a beautiful dark theme
     // Alternative dark themes you can try:
-    // "dark_modern", "dark_vintage", "dark_contrast"
+    // "dark_modern", "dark_vintage", "dark_contrast", "dark_notepad"
 };
 
 export const SETTINGS: SettingsConfig = {
