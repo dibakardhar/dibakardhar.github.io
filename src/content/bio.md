@@ -1,28 +1,70 @@
 ---
-name: "Claude Shannon"
-avatar: "shannon.jpg"
-shortBio: "Mathematician and electrical engineer known as the 'Father of Information Theory'. Pioneer in digital computing and cryptography."
-institution: "MIT, Cambridge MA"
+name: "Dibakar Dhar"
+avatar: "profile.jpg"
+shortBio: "High Energy Physics | Astro-Particle Research Scholar exploring multiparticle production, compact stars, and AI applications in Physics."
+institution: "High Energy Physics & Astro-Particle Research"
 ---
 
-I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
+# Hi, I'm Dibakar Dhar 👋 ⚛️
 
-## My Life
+## High Energy Physics | Astro-Particle Research Scholar
 
-Born in Petoskey, Michigan on April 30, 1916, I showed an early aptitude for engineering and mathematics. After studying at the University of Michigan, I completed my PhD at MIT where I famously applied Boolean algebra to electrical circuits. My master's thesis on relay switching circuits is considered one of the most important master's theses ever written.
+I am a physicist dedicated to understanding the fundamental structure of the universe. My work bridges **High Energy Physics (HEP)** and **Astrophysics**, specifically focusing on multiparticle production processes and compact stars with a fine touch of **Artificial Intelligence (AI)**.
 
-During World War, I worked at Bell Labs on fire control systems and cryptography, which led to my seminal work in information theory.
+## 🔬 My Research
 
-## Current Work
+My current research focuses on understanding the fundamental nature of matter and the universe through:
 
-I continue to work on various problems at the intersection of mathematics, engineering, and computer science. My interests include artificial intelligence, pattern recognition, game theory, and the fundamental limits of computation.
+- **Event-by-event dynamical fluctuations** in proton-proton (pp), proton-lead (p-Pb), and lead-lead (Pb-Pb) collisions
+- **Strange stars** and their exotic properties
+- **QGP (Quark-Gluon Plasma) phase transitions**
+- **AI applications** in high-energy physics data analysis
 
-I also enjoy juggling, unicycling, and playing the clarinet - I even built a juggling machine!
+## 🛠️ My Tools
 
-## Research Interests
+I work with a variety of specialized tools and programming languages:
 
-My research focus includes: **Information Theory**, **Cryptography**, **Digital Computing**, **Artificial Intelligence**, **Game Theory**, and **Switching Circuits**.
+**Physics Simulation Frameworks:**
+- `AMPT` - A Multi-Phase Transport Model
+- `PYTHIA8` - Event generator for high-energy collisions
+- `UrQMD` - Ultra-relativistic Quantum Molecular Dynamics
+- `HYDJET++` - Hydrodynamics + Jets event generator
+- `Geant4` - Simulation of particle transport
+
+**Programming & Analysis:**
+- `ROOT (CERN)` - Data analysis framework
+- `Python` - Data processing and AI
+- `C++` - High-performance computing
+- `Fortran` - Scientific computing
+- `Mathematica` - Symbolic computations
+- `Matlab` - Numerical analysis
+
+**Development Tools:**
+- `Linux` - Development environment
+- `Git` - Version control
+- `LaTeX` - Academic writing
+- `VS Code` & `PyCharm` - Code editors
+
+## 📊 Current Focus
+
+I am actively researching multiparticle production processes in heavy-ion collisions to understand:
+- The properties of strongly interacting matter
+- Signatures of QGP formation
+- Fluctuation phenomena in high-energy collisions
+- The potential existence of strange quark matter in compact stars
 
 ---
 
-*"I am a mathematician. I am interested in the fundamental limits on the rate at which information can be transmitted."*
+## 📫 Let's Connect
+
+I'm always interested in collaborating with fellow physicists and researchers. You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/dibakar-x01-dhar/)
+- [Google Scholar](https://scholar.google.com/citations?user=V0pm7XQAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Dibakar-Dhar)
+- [INSPIRE-HEP](https://inspirehep.net/authors/2870903)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59303501300)
+
+---
+
+*"The universe is not only stranger than we imagine, it is stranger than we can imagine."*
