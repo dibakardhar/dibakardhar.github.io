@@ -7,7 +7,7 @@ export const SITE: SiteConfig = {
     title: "Dibakar Dhar",
     ogImage: "profile.jpg",  // Changed from shannon.webp to your profile photo
     postPerPage: 5,
-    favicon: "/favicon.svg",
+    favicon: "/profile.jpg",
     lang: "en",
 };
 
