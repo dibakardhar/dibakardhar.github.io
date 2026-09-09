@@ -52,19 +52,6 @@ I am actively researching multiparticle production processes in heavy-ion collis
 - Signatures of QGP formation
 - Fluctuation phenomena in high-energy collisions
 - The potential existence of strange quark matter in compact stars
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating with fellow physicists and researchers. You can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/dibakar-x01-dhar/)
-- [Google Scholar](https://scholar.google.com/citations?user=V0pm7XQAAAAJ)
-- [ResearchGate](https://www.researchgate.net/profile/Dibakar-Dhar)
-- [INSPIRE-HEP](https://inspirehep.net/authors/2870903)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59303501300)
-
 ---
 
 *"The universe is not only stranger than we imagine, it is stranger than we can imagine."*
