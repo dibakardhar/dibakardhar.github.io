@@ -3,9 +3,9 @@ import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, Ana
 export const SITE: SiteConfig = {
     website: "https://dibakardhar.github.io",
     author: "Dibakar Dhar",
-    desc: "Personal academic portfolio and blog of Claude Shannon, Father of Information Theory.",
+    desc: "High Energy Physics | Astro-Particle Research Scholar exploring multiparticle production, compact stars, and AI applications in Physics.",
     title: "Dibakar Dhar",
-    ogImage: "shannon.webp",
+    ogImage: "profile.jpg",  // Changed from shannon.webp to your profile photo
     postPerPage: 5,
     favicon: "/favicon.svg",
     lang: "en",
@@ -14,23 +14,23 @@ export const SITE: SiteConfig = {
 export const THEME_CONFIG: ThemeConfig = {
     lightAndDark: true,
     themeLight: "light_default",
-    themeDark: "dark_notepad",
+    themeDark: "dark_notepad",  // This gives a beautiful dark theme
+    // Alternative dark themes you can try:
+    // "dark_modern", "dark_vintage", "dark_contrast"
 };
 
 export const SETTINGS: SettingsConfig = {
     showTagsInNavbar: true,
     showRSSInFooter: true,
-    addDevToolsInProduction: true,
+    addDevToolsInProduction: false,  // Changed to false for production
 };
 
 const umami: UmamiAnalyticsConfig = {
-    websiteId: "", // e.g., 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'
-    src: "https://cloud.umami.is/script.js", // Default Umami cloud script URL
+    websiteId: "", // Leave empty for now, add later if you want analytics
+    src: "https://cloud.umami.is/script.js",
 }
 
 export const ANALYTICS: AnalyticsConfig = {
-    // Google Analytics 4 Measurement ID (e.g., 'G-XXXXXXXXXX')
-    ga4Id: "",
-    // Umami Analytics configuration
+    ga4Id: "",  // Leave empty for now
     umami: umami
 };
